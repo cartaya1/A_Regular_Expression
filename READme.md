@@ -13,7 +13,7 @@
 
 # Regex Tutorial
 ![Demo](./Regular expressions quick reference.pdf)
-_
+
 A regular expression (shortened as regex or regexp;[1] also referred to as rational expression[2][3]) is a sequence of characters that specifies a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
 The concept of regular expressions began in the 1950s, when the American mathematician Stephen Cole Kleene formalized the description of a regular language. They came into common use with Unix text-processing utilities. Different syntaxes for writing regular expressions have existed since the 1980s, one being the POSIX standard and another, widely used, being the Perl syntax.
@@ -31,23 +31,6 @@ Simple patterns are constructed of characters for which you want to find a direc
 
 ## Using special characters
 When the search for a match requires something more than a direct match, such as finding one or more b's, or finding white space, you can include special characters in the pattern. For example, to match a single "a" followed by zero or more "b"s followed by "c", you'd use the pattern /ab*c/: the * after "b" means "0 or more occurrences of the preceding item." In the string "cbbabbbbcdebc", this pattern will match the substring "abbbbc".
-
-The following pages provide lists of the different special characters that fit into each category, along with descriptions and examples.
-
-### Assertions
-Assertions include boundaries, which indicate the beginnings and endings of lines and words, and other patterns indicating in some way that a match is possible (including look-ahead, look-behind, and conditional expressions).
-
-### Character classes
-Distinguish different types of characters. For example, distinguishing between letters and digits.
-
-### Groups and ranges
-Indicate groups and ranges of expression characters.
-
-### Quantifiers
-Indicate numbers of characters or expressions to match.
-
-### Unicode property escapes
-Distinguish based on unicode character properties, for example, upper- and lower-case letters, math symbols, and punctuation.
 
 # Table of Contents
 
