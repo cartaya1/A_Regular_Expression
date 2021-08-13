@@ -14,7 +14,7 @@
 # Regex Tutorial
 <p>
     <a href="https://cartaya1.github.io/A_Regular_Expression/Regular expressions quick reference.pdf">
-        <img src="https://img.shields.io/badge/-Download%20cheet%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Download PDF">
+        <img src="https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Download PDF">
     </a>
 </p>
 
