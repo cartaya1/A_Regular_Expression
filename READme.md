@@ -1,10 +1,10 @@
 <h1 align="center">A Regular expression?</h1>
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/cartaya1/1" />
-    <img src="https://img.shields.io/github/languages/top/cartaya1/1"  />
-    <img src="https://img.shields.io/github/issues/cartaya1/1" />
-    <img src="https://img.shields.io/github/last-commit/cartaya1/1" >
+    <img src="https://img.shields.io/github/repo-size/cartaya1/A_Regular_Expression" />
+    <img src="https://img.shields.io/github/languages/top/cartaya1/A_Regular_Expression"  />
+    <img src="https://img.shields.io/github/issues/cartaya1/A_Regular_Expression" />
+    <img src="https://img.shields.io/github/last-commit/cartaya1/A_Regular_Expression" >
     <a href="https://github.com/cartaya1"><img src="https://img.shields.io/github/followers/cartaya1?style=social" target="_blank" /></a>
     <a href="https://twitter.com/cartayas_USA">
         <img alt="Twitter: cartayas_USA" src="https://img.shields.io/twitter/follow/cartayas_USA.svg?style=social" target="_blank" />
@@ -12,7 +12,11 @@
 </p>
 
 # Regex Tutorial
-![Demo](./Regular expressions quick reference.pdf)
+<p>
+    <a href="https://cartaya1.github.io/A_Regular_Expression/Regular expressions quick reference.pdf">
+        <img src="https://img.shields.io/badge/-Download%20cheet%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="Download PDF">
+    </a>
+</p>
 
 A regular expression (shortened as regex or regexp;[1] also referred to as rational expression[2][3]) is a sequence of characters that specifies a search pattern. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation. It is a technique developed in theoretical computer science and formal language theory.
 
@@ -566,4 +570,4 @@ Escape converts a string so that the regular expression engine will interpret an
 .
 # Questions
 ✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) , 
-[GitHub](https://github.com/cartaya1)<br />
+[GitHub](https://github.com/cartaya1/A_Regular_Expression)<br />
