@@ -42,7 +42,7 @@ When the search for a match requires something more than a direct match, such as
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
-- [REGEX en Español](#espanol)
+- [REGEX en Español](#regex-tutorial)
 - [Autor Informations](#author-informations)
 
 
@@ -308,6 +308,7 @@ A simple regular expression pattern illustrates how numbered (unnamed) and named
 .
 
 # Bracket Expressions
+[Table of Contents](#table-of-contents)
 
 Character Classes and Bracket Expressions
 A bracket expression is a list of characters enclosed by ‘[’ and ‘]’. It matches any single character in that list. If the first character of the list is the caret ‘^’, then it matches any character not in the list, and it is unspecified whether it matches an encoding error. For example, the regular expression ‘[0123456789]’ matches any single digit, whereas ‘[^()]’ matches any single character that is not an opening or closing parenthesis, and might or might not match an encoding error.
@@ -391,6 +392,7 @@ represents the characters not in the list. If you want to make the ‘^’ chara
 .
 
 # Character Classes
+[Table of Contents](#table-of-contents)
 
 ## Character classes in regular expressions
 
@@ -438,6 +440,7 @@ where firstCharacter is the character that begins the range and lastCharacter is
 .
 
 # The OR Operator
+[Table of Contents](#table-of-contents)
 
 ## Logical OR operator: ||
 
@@ -473,6 +476,7 @@ The Or operator can be overloaded, which means that a class or structure can red
 .
 
 # Flags
+[Table of Contents](#table-of-contents)
 
 ## FlagsAttribute Class
 .
@@ -521,6 +525,7 @@ If there is an obvious default case your application needs to represent, conside
 
 .
 # Character Escapes
+[Table of Contents](#table-of-contents)
 
 ## Regex.Escape(String) Method
 
@@ -557,7 +562,7 @@ Escape converts a string so that the regular expression engine will interpret an
 # Author Informations
 
 ## [Luis Cartaya](https://github.com/cartaya1)
-
+[Table of Contents](#table-of-contents)
 .
 # Questions
 ✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) , 
