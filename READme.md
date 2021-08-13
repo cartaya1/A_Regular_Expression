@@ -49,6 +49,7 @@ When the search for a match requires something more than a direct match, such as
 # Regex Components
 
 # Anchors
+[Table of Contents](#table-of-contents)
 
 ## Anchors in Regular Expressions
 
@@ -131,6 +132,7 @@ The following example uses the \B anchor to locate occurrences of the substring 
 .
 
 # Quantifiers
+[Table of Contents](#table-of-contents)
 
 Quantifiers specify how many instances of a character, group, or character class must be present in the input for a match to be found. The following table lists the quantifiers supported by .NET.
 
@@ -212,6 +214,7 @@ For example, the following code shows the result of a call to the Regex.Match me
 .
 
 # Grouping Constructs
+[Table of Contents](#table-of-contents)
 
 ## Grouping Constructs in Regular Expressions
 
