@@ -46,7 +46,6 @@ When the search for a match requires something more than a direct match, such as
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
-- [REGEX en Español](#regex-tutorial)
 - [Autor Informations](#author-informations)
 
 
